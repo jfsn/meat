@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Meat" max_length="40" name="sn_meat_meat" type="collection"/>
+    <element label="Meat" max_length="40" name="sn_meat_meat" type="collection">
+        <element label="newfieldxml" max_length="40" name="newfieldxml" type="xml"/>
+    </element>
 </database>
