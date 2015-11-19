@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Meat" language="en" table="sn_meat_meat">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Meat</label>
+            <language>en</language>
+            <name>sn_meat_meat</name>
+            <plural>Meats</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-19 21:50:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>86867e0297330200f113bb7503ac4ac8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Meat</sys_name>
+            <sys_package display_value="meat" source="sn_meat">1466ba0297330200f113bb7503ac4a4f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="meat">1466ba0297330200f113bb7503ac4a4f</sys_scope>
+            <sys_update_name>sys_documentation_sn_meat_meat__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-19 21:50:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
